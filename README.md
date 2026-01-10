@@ -10,8 +10,16 @@ Escribió mas de 200 [artículos](https://en.wikipedia.org/wiki/Nick_Bostrom#Jou
 	Su libro mas vendido. Habla sobre los peligros de la inteligencia artificial y como evitarlos.
 - [Deep Utopia: Life and Meaning in a Solved World (2024)](https://nickbostrom.com/deep-utopia/)
 	A diferencia del libro anterior, este tiene un enfoque positivo ante la IA. Habla de las posibilidades que tiene la inteligencia artificial si logramos controlarla y usarla para el bien del mundo.
+
 # Transhumanismo
 Bostron esta a favor del perfeccionamiento humano y critica el [bioconservadurismo](https://en.wikipedia.org/wiki/Bioconservatism). Piensa que las tecnologías de mejora humana deberían ser disponibles para todos y que cada persona tenga la oportunidad de escoger las mejoras que se quiere aplicar.
+
+# Inteligencia artificial
+Nick Bostrom se enfoca mucho en la inteligencia artificial. Abordo el tema tanto desde un enfoque negativo como uno positivo
+
+En su libro "Superintelligence" donde habla de la dificultad de la alineación de la inteligencia artificial y los efectos destructivos que podría tener.
+
+En su posterior libro "Deep Utopia" explora las posibilidades y dilemas filosóficos suponiendo que podamos crear una AGI de forma ética y segura.
 
 # Fuentes
 1. [Wikipedia](https://es.wikipedia.org/wiki/Nick_Bostrom)
