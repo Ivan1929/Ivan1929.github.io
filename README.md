@@ -17,9 +17,9 @@ Bostron esta a favor del perfeccionamiento humano y critica el [bioconservaduris
 # Inteligencia artificial
 Nick Bostrom se enfoca mucho en la inteligencia artificial. Abordo el tema tanto desde un enfoque negativo como uno positivo
 
-En su libro "Superintelligence" donde habla de la dificultad de la alineación de la inteligencia artificial y los efectos destructivos que podría tener.
+En su libro [Superintelligence](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) donde habla de la dificultad de la alineación de la inteligencia artificial y los efectos destructivos que podría tener.
 
-En su posterior libro "Deep Utopia" explora las posibilidades y dilemas filosóficos suponiendo que podamos crear una AGI de forma ética y segura.
+En su posterior libro [Deep Utopia](https://nickbostrom.com/deep-utopia/) explora las posibilidades y dilemas filosóficos suponiendo que podamos crear una AGI de forma ética y segura.
 
 # Fuentes
 1. [Wikipedia](https://es.wikipedia.org/wiki/Nick_Bostrom)
