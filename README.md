@@ -1,5 +1,5 @@
 # Publicaciones
-Mas de 200 publicación. Algunas de las mas importantes son:
+Escribió mas de 200 [artículos](https://en.wikipedia.org/wiki/Nick_Bostrom#Journal_articles) publico 5 [libros](https://en.wikipedia.org/wiki/Nick_Bostrom#Books_2):
 - [Anthrobic Bias (2002)](https://en.wikipedia.org/wiki/Anthropic_Bias)
 	Trata sobre el [principio antrópico](https://en.wikipedia.org/wiki/Anthropic_principle) 
 - [Global Catastrophic Risks (2008)](https://en.wikipedia.org/wiki/Global_Catastrophic_Risks_(book))
@@ -8,6 +8,12 @@ Mas de 200 publicación. Algunas de las mas importantes son:
 	Implicaciones éticas del transhumanismo.
 - [Superintelligence: Paths, Dangers Strategies (2014)](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
 	Su libro mas vendido. Habla sobre los peligros de la inteligencia artificial y como evitarlos.
+- [Deep Utopia: Life and Meaning in a Solved World (2024)](https://nickbostrom.com/deep-utopia/)
+	A diferencia del libro anterior, este tiene un enfoque positivo ante la IA. Habla de las posibilidades que tiene la inteligencia artificial si logramos controlarla y usarla para el bien del mundo.
+# Transhumanismo
+Bostron esta a favor del perfeccionamiento humano y critica el [bioconservadurismo](https://en.wikipedia.org/wiki/Bioconservatism). Piensa que las tecnologías de mejora humana deberían ser disponibles para todos y que cada persona tenga la oportunidad de escoger las mejoras que se quiere aplicar.
+
 # Fuentes
-[Wikipedia](https://es.wikipedia.org/wiki/Nick_Bostrom)
-[Amazon](https://www.amazon.com/stores/author/B001HCZVL8/about)
+1. [Wikipedia](https://es.wikipedia.org/wiki/Nick_Bostrom)
+2. [Bioethics 2005-06](https://archive.org/details/sim_bioethics_2005-06_19_3/page/203/mode/2up)
+3. [Amazon](https://www.amazon.com/stores/author/B001HCZVL8/about)
