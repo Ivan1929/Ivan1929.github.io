@@ -25,6 +25,14 @@ Escribió mas de 200 [artículos](https://en.wikipedia.org/wiki/Nick_Bostrom#Jou
 # Transhumanismo
 Bostron esta a favor del perfeccionamiento humano y critica el [bioconservadurismo](https://en.wikipedia.org/wiki/Bioconservatism). Piensa que las tecnologías de mejora humana deberían ser disponibles para todos y que cada persona tenga la oportunidad de escoger las mejoras que se quiere aplicar.
 
+Fue uno de los dos fundadores de **Humanity Plus**, una organización con el fin de promover la discusión de las posibilidades de la mejora de las capacidades humanas por el medio de las tecnologías.
+
+Humanity Plus tiene distintos objetivos, aquellos son:
+1. Apoyar la discusión y la conciencia pública de las tecnologías emergentes .
+2. Defender el derecho de las personas en sociedades libres y democráticas a adoptar tecnologías que expandan las capacidades humanas
+3. Anticipar y proponer soluciones para las consecuencias potenciales de las nuevas tecnologías.
+4. Alentar y apoyar activamente el desarrollo de tecnologías emergentes que se considere que tienen un beneficio positivo suficientemente probable
+
 # Inteligencia artificial
 Nick Bostrom se enfoca mucho en la inteligencia artificial. Abordo el tema tanto desde un enfoque negativo como uno positivo
 
