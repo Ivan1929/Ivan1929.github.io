@@ -1,3 +1,14 @@
+# Educación y ocupación
+Desde joven no le gustaba la escuela y decidió pasarse sus últimos años de instituto estudiando en casa. Aprendió por si mismo sobre diversos temas como la antropología, arte, literatura y ciencia.
+
+| Universidad:              | Estudio:                   |
+| ------------------------- | -------------------------- |
+| Universidad de Gotemburgo | Arte                       |
+| Universidad de Estocolmo  | Filosofía y física         |
+| King's College de Londres | neurociencia computacional |
+
+Enseño en la Universidad de Yale durante dos años
+
 # Publicaciones
 Escribió mas de 200 [artículos](https://en.wikipedia.org/wiki/Nick_Bostrom#Journal_articles) publico 5 [libros](https://en.wikipedia.org/wiki/Nick_Bostrom#Books_2):
 - [Anthrobic Bias (2002)](https://en.wikipedia.org/wiki/Anthropic_Bias)
